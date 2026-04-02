@@ -27,5 +27,6 @@ DVDCF : Chuyển đổi bảng mã (Unicode, TCVN3, VNI) cho văn bản.
 
 DVDSETGEMINI: Cài đặt API key và model cho tính năng dịch bằng Gemini.
 
+DVDABOUT	:	Thông tin tác giả.
 
 Tác giả: Đặng Văn Đằng
